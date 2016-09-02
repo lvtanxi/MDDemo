@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\header.jpg",
+        "source": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\src\\main\\res\\mipmap-xxhdpi\\header.jpg"
+    },
+    {
+        "merged": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_menu_home_normal.png",
+        "source": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_menu_home_selected.png",
+        "source": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_menu_home_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_toolbar_add.png",
+        "source": "C:\\Users\\rt11007\\Desktop\\MDStudySamples\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_toolbar_add.png"
+    }
+]
